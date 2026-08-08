@@ -42,7 +42,7 @@
 
 ## 5. Data Visualization
 
-- 
+- <img width="1312" height="429" alt="image" src="https://github.com/user-attachments/assets/fcaafe25-69df-430a-8ea2-e7a8b54f97cb" />
 
 
 ## 5.1 Key Insights
@@ -57,6 +57,8 @@
 
 ## Tools & Technologies
 
+1. Excel
+   
 ---
 
 ## Project Outcome
