@@ -28,7 +28,7 @@
 ---
 
 ## 3. Data Cleaning & Preparation
-- 
+- The data was not that inconsistent, the only I fixed is putting the correct currency
 
 ---
 
@@ -56,7 +56,10 @@
 ---
 
 ## 6. Recommendations
-
+- Introduce a patient care plan that provides free or subsidized diagnostic services and other healthcare benefits. This could help patients access healthcare earlier and make it easier to identify patients who are enrolled in the plan.
+- Improve healthcare resources in KwaZulu-Natal (KZN). Since KZN has the lowest treatment spending among the four regions, further investigation should be done to determine whether this is related to fewer patients, limited healthcare facilities, or a lack of medical resources.
+- Provide more medical equipment and supplies in KZN, especially in areas where healthcare resources may be limited. This could help healthcare facilities provide better and more consistent patient care.
+- Expand healthcare facilities into rural areas. Opening additional clinics or healthcare branches in underserved communities could make healthcare more accessible and reduce the need for patients to travel long distances for treatment.
 ---
 
 ## Tools & Technologies
