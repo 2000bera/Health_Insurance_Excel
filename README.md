@@ -1,4 +1,4 @@
-# Health Insurance Power BI Project
+# Health Insurance Excel Project
 
 ## Overview
 
