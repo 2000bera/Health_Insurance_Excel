@@ -37,6 +37,8 @@
 - Males have a higher total treatment cost than females, meaning that females contribute less to overall healthcare spending.
 - The higher spending among males may be related to longer hospital stays, more expensive treatments, different diagnoses, or differences in the types of visits they receive.
 - Eastern Cape and Western Cape appear to have the highest treatment costs, while KwaZulu-Natal (KZN) has the lowest. This could potentially be related to differences in he number of patients, healthcare facilities, treatment availability, or the types of diagnoses in each region.
+- The dashboard also shows that outpatient visits are prominent, which may indicate that many patients are receiving consultations, check-ups, or other non-inpatient services.
+  
 ---
 
 ## 5. Data Visualization
