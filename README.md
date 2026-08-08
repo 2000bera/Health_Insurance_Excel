@@ -34,7 +34,9 @@
 
 ## 4. Data Analysis & Insights
 
-
+The dataset contains 200 patients across 4 active regions.
+Males have a higher total treatment cost than females, meaning that females contribute less to overall healthcare spending.
+The higher spending among males may be related to longer hospital stays, more expensive treatments, different diagnoses, or differences in the types of visits they receive.
 ---
 
 ## 5. Data Visualization
@@ -58,11 +60,6 @@
 ## Tools & Technologies
 
 1. Excel
-   
----
-
-## Project Outcome
-
 
 
 
