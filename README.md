@@ -1,10 +1,9 @@
 # Health Insurance Excel Project
 
-## Overview
-
+- Doing analysis on the health dataset to find patterns and get to know more about patients
 
 ## Building this project
-
+- Build the project based on the following workflow below.
 
 ---
 
@@ -19,7 +18,7 @@
 ---
 
 ## 1. Problem Statement
-
+- Why do females spend less on diagnosis and treatment compared with males?
 
 ---
 
