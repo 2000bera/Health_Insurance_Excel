@@ -42,7 +42,7 @@
 
 ## 5. Data Visualization
 
- <img width="1314" height="473" alt="image" src="https://github.com/user-attachments/assets/4e9843b7-90b5-4d91-8997-629531e13967" />
+ <img width="1311" height="473" alt="image" src="https://github.com/user-attachments/assets/43cc564c-abe6-4166-a249-6166c21bd40d" />
 
 
 ## 5.1 Key Insights
